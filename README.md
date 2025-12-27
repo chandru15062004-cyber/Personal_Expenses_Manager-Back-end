@@ -1,1 +1,0 @@
-Personal Expense Manager is a full-stack web application built using Spring Boot and React JS that helps users record, view, and manage daily expenses. It supports CRUD operations, RESTful APIs, database integration, and a clean, user-friendly UI for efficient expense tracking.
